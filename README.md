@@ -14,7 +14,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=menofculture69&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=menofculture69&limit=5&theme=radical&combine_all_yearly_contributions=true)
+</div>
 
 ## 🖥️ Workspace Setup
 
