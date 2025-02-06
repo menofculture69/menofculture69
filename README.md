@@ -27,7 +27,7 @@
       <span>CPU</span>
     </td>
     <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="i7-8th-gen">
+      <img src="https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Ryzen 7">
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@
       <span>GPU</span>
     </td>
     <td align="center" width="300">
-      <img src="https://img.shields.io/badge/NVIDIA-RTX_2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="rtx-2080">
+      <img src="https://img.shields.io/badge/NVIDIA-RTX_2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="rtx-3050">
     </td>
   </tr>
   <tr>
